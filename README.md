@@ -102,3 +102,4 @@ kitsites/
 - Fotos: coloque em `public/` e use o caminho `/arquivo.jpg` (ex.: no `logo` ou `galeria`).
 - O botão flutuante de WhatsApp aparece em todos os templates se houver `whatsapp`.
 # noxryl0
+# kitsites
