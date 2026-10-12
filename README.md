@@ -103,3 +103,4 @@ kitsites/
 - O botão flutuante de WhatsApp aparece em todos os templates se houver `whatsapp`.
 # noxryl0
 # kitsites
+# kitsites
